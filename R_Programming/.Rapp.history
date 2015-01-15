@@ -1,0 +1,17 @@
+pwd
+getwd()
+getwd()
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls
+ls()
+ls()
+dir()
+source("myfumnction.R")
+source("myfunction.R")
+second(4)
+myfunction(1)
+clc
+clear
